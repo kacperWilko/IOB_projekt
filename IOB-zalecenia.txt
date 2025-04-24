@@ -1,9 +1,0 @@
-Macierz pomyłek
-
-Wykresy wyników - ta sama metoda, inne metody uzupełniania
-
-Zamiast dropna (usunięcie wierszy) - usunięcie kolumn
-
-Undersampling 
-
-Ph - bardziej liniowo(odległość od średniej, dostosować wysokość histogramów), albo rozbić na 3 cechy 
